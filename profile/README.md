@@ -6,6 +6,10 @@ FINAKLE has completed the development of the first service, the beta version of 
 
 Today, FINAKLE is enjoying an impressive effort to launch its first service with an outstanding team of passionate and diverse backgrounds.
 
+## Our Service Platform
+- Rebit: https://rebitx.com
+- Funchy: https://funchy.kr
+
 ## Introduce
 ### what is your organization all about?
 ...
