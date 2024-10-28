@@ -9,6 +9,7 @@ Today, FINAKLE is enjoying an impressive effort to launch its first service with
 ## Our Service Platform
 - Rebit: https://rebitx.com
 - Funchy: https://funchy.kr
+- Cravo: https://cravo.kr/
 
 ## Introduce
 ### what is your organization all about?
